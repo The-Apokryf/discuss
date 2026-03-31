@@ -1,0 +1,3 @@
+[submodule "guide"]
+	path = guidelines
+	url = https://github.com/The-Apokryf/discuss.wiki.git
