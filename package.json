@@ -1,0 +1,20 @@
+{
+  "name": "discuss",
+  "version": "1.0.0",
+  "description": "discussion on github",
+  "homepage": "https://github.com/orgs/The-Apokryf/discussions",
+  "bugs": {
+    "url": "https://github.com/The-Apokryf/discuss/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Apokryf/discuss.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
